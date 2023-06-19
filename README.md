@@ -7,7 +7,8 @@ To get started with this WEB Application:
 2. Run `npm run start` to start the project
 3. Start coding!
 
-### **Built For Resume?**
+### **Built For Resumes?**
+- THere are notes that explain the code used to excell in developing web applications on solana.
 
 ### **Questions?**
 
